@@ -1,4 +1,4 @@
-# Riesgo Tecnológico
+# Riesgo Tecnológico 🌴
 
 Repositorio para las actividades del curso Riesgo Tecnológico de la Facultad de Ciencias, UNAM. <br>
 Semestre 2023-1
